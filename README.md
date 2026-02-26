@@ -88,7 +88,6 @@ Banco utilizado: **H2 (em memória)**
 - Paginação com Pageable
 - DTOs para segurança de dados
 - Tratamento global de exceções
-- Integração Frontend + Backend
 - Código limpo e organizado
 
 ---
@@ -97,7 +96,7 @@ Banco utilizado: **H2 (em memória)**
 
 **Guilherme Melo**
 
-Desenvolvedor Java | Spring Boot | Backend & Fullstack
+Desenvolvedor Java | Spring Boot | Backend 
 
 ---
 
